@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SyusufWaliyyi
+- 👋 Hi, I’m Shamsuddeen Yusuf
 - 👀 I’m interested in Control Engineering, Renewable Energy and Artificial Intelligence
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on research and project development
