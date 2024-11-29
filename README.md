@@ -2,7 +2,7 @@
 - 👀 I’m interested in Control Engineering, Renewable Energy and Artificial Intelligence
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on research and project development
-- 📫 How to reach me sywaliyyi@gmsil.com
+- 📫 How to reach me sywaliyyi@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
