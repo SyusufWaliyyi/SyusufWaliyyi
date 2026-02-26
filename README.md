@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shamsuddeen Yusuf
-- 👀 I’m interested in Control Engineering, Renewable Energy and Artificial Intelligence
-- 🌱 I’m currently learning python
+- 👀 I’m interested in Control Engineering, Data Science, Data Analysis and Artificial Intelligence
+- 🌱 Welcome to my page
 - 💞️ I’m looking to collaborate on research and project development
 - 📫 How to reach me sywaliyyi@gmail.com
 - 😄 Pronouns: ...
